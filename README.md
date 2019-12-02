@@ -11,8 +11,7 @@ In the following files, it includes methods to:
   -Single Email to Single Recipient
   -Single Email to Many Recipient
   -Salt and Hashing Passwords
-  
-    -Send a email using the Mail Helper (beginners)
-    -Send a email using the standard service (recommended)
+  -Send a email using the Mail Helper (beginners)
+  -Send a email using the standard service (recommended)
   
  20191201 - I am still adding to the files 
