@@ -5,13 +5,21 @@ I utilized this service to create the email service for a web application I crea
 I figured I'd share the wealth of knowledge.
 
 In the following files, it includes methods to:
+  
   -Attach a PDF or file
+  
   -Confirmation Email Service
+  
   -Reset Password Service
+  
   -Single Email to Single Recipient
+  
   -Single Email to Many Recipient
+  
   -Salt and Hashing Passwords
+  
   -Send a email using the Mail Helper (beginners)
+  
   -Send a email using the standard service (recommended)
   
  20191201 - I am still adding to the files 
